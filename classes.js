@@ -126,7 +126,6 @@ class ProgressiveManager {
             this.title = "Bestest Manager";
         }
         return this.title;
-
     }
 
     fire(index) {
@@ -184,6 +183,5 @@ class Machine {
             this.wear_and_tear_count -= 10;
             this.needs_reboot = false;
         }
-
     }
 }
