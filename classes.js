@@ -139,7 +139,6 @@ class ProgressiveManager {
 }
 
 
-
 /*
 BLACK DIAMOND
 Widget Co has a factory that makes widgets.
