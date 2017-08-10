@@ -25,6 +25,8 @@ function greeting( obj ) {
   var {firstName, lastName, title} = obj;
   
   return 'Hello, ' + title + ' ' + firstName + ' ' + lastName + '!';
+  //can also return like
+  //return "Hello, " ${title} ${firstname} ${lastname};
 }
 
 
